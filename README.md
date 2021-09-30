@@ -24,7 +24,7 @@ In such cases, you can use ```tmux```, a terminal multiplexer.
 4. Detach from a tmux session, which will keep running by typing ```Ctrl+b``` and then ```d```
 5. To attach back to the session go to terminal and type ```tmux attach mysession```
 6. To kill a session on tmux type ```Ctrl+x``` and press ```y```
-
+Please refer here to get a full list of [tmux commands](https://tmuxcheatsheet.com/)
 
 
 ## Learn GPU usage 
