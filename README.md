@@ -30,7 +30,7 @@ Please refer here to get a full list of [tmux commands](https://tmuxcheatsheet.c
 
 ## Learn GPU usage 
 1. To check whether your code runs on a GPU please go to terminal. 
-2. Type nvidia-smi
-3. You should see the following image 
+2. Type ```nvidia-smi```
+3. You should see the python program listed among proccesses.
 
 
