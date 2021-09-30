@@ -12,8 +12,9 @@ Therefore, only a single user can connect to the computer at a time. Also, all u
 
 
 ## Run python scripts 
-1. Prepare your .py file 
-2. Opent the terminal by pressing ```Ctrl+Alt+T```
+1. Prepare your file_name.py file 
+2. Open the terminal by pressing ```Ctrl+Alt+T```
+3. Type ```python file_name.py```
 
 
 ## Learn GPU usage 
