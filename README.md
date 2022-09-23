@@ -1,10 +1,10 @@
 ## Scheduling Your Job
-In order to schdeule your job to run in one of the ML lab computers, please contact aigerim.bogyrbayeva@sdu.edu.kz. Beforehand please estimate the total computational time you need and think through if you need a physical access to the computer to upload your data. If permission is received, please stick to given time slot and do not access the computer out of the permitted time. After using the copmuter, please remove all the used code and data as we cannot store everyones work on the lab computers. 
+In order to schdeule your job to run in one of the ML lab computers, please contact aigerim.bogyrbayeva@sdu.edu.kz. Beforehand please estimate the total computational time you need and think if you need a physical access to the computer to upload your data. If permission is received, please stick to given time slot and do not access the computer out of the permitted time. After using the copmuter, please remove all the used code and data as we cannot store everyone's work on the lab computers. 
 
 
 ## Security 
 SDU does not allow VPN access to students and professors. Therefore, we will connect to the computer with a GPU as a remote computer. 
-Only a single user can connect to the computer at a time. Also, all users can access to all aplications installed in the computer. 
+Only a single user can connect to the computer at a time. Also, all users can access all applications installed on the computer. 
 
 **Please log out from all applications that you used during your session, so other users will not have access to your credentials!**
 
