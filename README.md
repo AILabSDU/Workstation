@@ -6,7 +6,7 @@ Only a single user can connect to the computer at a time. Also, all users can ac
 
 ## Access
 1. Please install [AnyDesk](https://anydesk.com/en) according to your platform. 
-2. After launching AnyDek please enter the following Remote Desk ID: **673490380**
+2. After launching AnyDek please enter the following Remote Desk ID: **660946575**
 3. You will be provided with a password to login. Don't share the password with anyone. Please enter that password next. 
 4. You should see the desktop of the remote computer running on Windows next. 
 
@@ -20,7 +20,7 @@ Only a single user can connect to the computer at a time. Also, all users can ac
 
 
 ## Learn GPU usage 
-1. To check whether your code runs on a GPU please go to terminal. 
+1. To check whether your code runs on a GPU please go to cmd. 
 2. Type ```nvidia-smi```
 3. You should see the python program listed among proccesses.
 
